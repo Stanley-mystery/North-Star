@@ -3223,7 +3223,7 @@ section,
   font-size: 1.1rem;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
   margin-bottom: 3rem;
-  max-width: 500px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
   line-height: 1.7;
