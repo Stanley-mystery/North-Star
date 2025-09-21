@@ -1679,7 +1679,7 @@ section,
     color-mix(in srgb, var(--accent-color), transparent 70%);
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .home-about .about-visual .experience-badge {
     position: static;
     margin-bottom: 2rem;
@@ -1687,7 +1687,7 @@ section,
     top: auto;
     display: inline-block;
   }
-}
+} */
 
 .home-about .about-visual .experience-badge .badge-content .years {
   display: block;
